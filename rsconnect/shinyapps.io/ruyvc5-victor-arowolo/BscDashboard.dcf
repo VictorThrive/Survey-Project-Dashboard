@@ -5,9 +5,9 @@ account: ruyvc5-victor-arowolo
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9362031
-bundleId: 7385855
+bundleId: 7385879
 url: https://ruyvc5-victor-arowolo.shinyapps.io/BscDashboard/
-when: 1687708216.0968
-lastSyncTime: 1687708216.09685
+when: 1687709191.68033
+lastSyncTime: 1687709191.68037
 asMultiple: FALSE
 asStatic: FALSE

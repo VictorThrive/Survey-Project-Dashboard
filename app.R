@@ -1,5 +1,12 @@
-my_packages <-c("shiny","shinydashboard","ordinal","tidyverse","caTools","MASS","brant","Metrics","gtable","skimr")
-lapply(my_packages, require, character.only = TRUE)
+
+
+library(tidyverse)
+library(shinydashboard)
+library(ordinal)
+library(MASS)
+library(shiny)
+
+
 # import data
 df <- read.csv("dataset/cleandf.csv",stringsAsFactors = TRUE)
 df <- df[,c(2:11,73,74)]
